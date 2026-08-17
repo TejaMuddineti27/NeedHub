@@ -1,0 +1,6 @@
+{
+  "name": "NeedHub - AI Marketplace Platform",
+  "description": "Unified AI-Powered Community Marketplace & Service Platform combining E-commerce, Services, Social Commerce, and Business Tools.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
